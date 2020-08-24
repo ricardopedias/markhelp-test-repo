@@ -1,6 +1,6 @@
 # MarkHelp
 
-Versão 2
+Versão 3
 
 O MarkHelp é uma ferramenta capaz de gerar páginas HTML a partir de arquivos Markdown.
 
